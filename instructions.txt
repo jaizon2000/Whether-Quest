@@ -1,0 +1,13 @@
+Here's some instructions for you,
+would you like to read them?
+[DECISION 0]
+The instructions are easy,
+type Y for yes,
+type N for no,
+then press enter to confirm your decision.
+
+But be careful!
+Once you confirm your choice, there is no going back.
+You must start from the beginning to change your outcome.
+
+That's it, enjoy!

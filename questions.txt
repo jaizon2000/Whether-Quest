@@ -1,0 +1,11 @@
+0
+Y: sure y not?
+N: don't worry, I got this :D
+
+1
+Y: Yes, I shall!
+N: I think I'll stick to my silk sheets
+
+2
+Y: She always knows what to pack :)
+N: I think I'll be fine without it :)
